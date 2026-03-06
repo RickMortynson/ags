@@ -16,7 +16,7 @@ Instructions were adapted from the [wiki](https://aylur.github.io/ags-docs/confi
 #### From source
 ```bash
 # Arch
-sudo pacman -S typescript npm meson gjs gtk3 gtk-layer-shell gnome-bluetooth-3.0 upower networkmanager gobject-introspection libdbusmenu-gtk3 libsoup3
+sudo pacman -S typescript npm meson gjs gtk3 gtk-layer-shell gnome-bluetooth-3.0 upower networkmanager gobject-introspection libdbusmenu-gtk3 libsoup3 glib2-devel
 ```
 ```bash
 # Fedora
